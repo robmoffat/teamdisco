@@ -1,7 +1,6 @@
 # site settings
 title: #teamdisco
 subtitle: The Bot Company
-email: rob@kite9.com
 description: A comic about bots, chat, ai and developers
 baseurl: "/teamdisco" # the subpath of your site, e.g. /blog
 include: ['_pages']
@@ -9,7 +8,6 @@ include: ['_pages']
 author: Rob Moffat
 city: London
 country: UK
-phone: "+447900_247_282"
 
 plugins:
   - jekyll-sitemap

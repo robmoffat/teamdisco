@@ -5,7 +5,7 @@ email: rob@kite9.com
 description: A comic about bots, chat, ai and developers
 baseurl: "/" # the subpath of your site, e.g. /blog
 include: ['_pages']
-url: https://teamdisco.com
+#url: https://teamdisco.com
 author: Rob Moffat
 city: London
 country: UK

@@ -12,7 +12,10 @@ landing-title: '#TeamDisco'
 
 </div>
 
-
+<div class="center">
+  <img src="/assets/images/more-are-coming.jpg"  />
+  <p>So very under construction...</p>
+</div>
 
 <div id="home">
   <h1>Story So Far...</h1>

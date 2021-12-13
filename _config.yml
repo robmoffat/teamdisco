@@ -1,5 +1,5 @@
 # site settings
-title: #teamdisco
+title: #TeamDisco
 subtitle: The Bot Company
 description: A comic about bots, chat, ai and developers
 #baseurl: "/teamdisco" # the subpath of your site, e.g. /blog
@@ -9,9 +9,6 @@ author: Rob Moffat
 city: London
 country: UK
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

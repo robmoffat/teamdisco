@@ -2,9 +2,9 @@
 title: #teamdisco
 subtitle: The Bot Company
 description: A comic about bots, chat, ai and developers
-baseurl: "/teamdisco" # the subpath of your site, e.g. /blog
+#baseurl: "/teamdisco" # the subpath of your site, e.g. /blog
 include: ['_pages']
-#url: https://teamdisco.com
+url: https://teamdisco.dev
 author: Rob Moffat
 city: London
 country: UK
@@ -26,3 +26,5 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+future: true

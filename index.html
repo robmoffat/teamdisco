@@ -16,8 +16,10 @@ landing-title: '#TeamDisco'
 
 <div id="home">
   <!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <img src="{{post.image}}" class="post" />
+{% for post in paginator.posts reversed %}
+  <a href="{{ post.url }}">
+  	<h1>{{ post.title }}</h1>
+  	<img src="{{post.image}}" class="post" />
+  </a>
 {% endfor %}
 </div>

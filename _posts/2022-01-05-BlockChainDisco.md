@@ -1,4 +1,4 @@
 ---
 layout: post
-image: /assets/strip/td/td.020.png
+image: /assets/strip/td/td.021.png
 ---
